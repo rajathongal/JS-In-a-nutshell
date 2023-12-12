@@ -1,0 +1,58 @@
+{ 
+    "objectTypeJSON": {
+        "name": "John xxx",
+        "age": 30,
+        "cars": {
+            "car1": "Fo rd",
+            "car2": "B MW",
+            "car3": "F iat"
+        }
+    },
+    "arrayTypeJSON": [
+        {
+            "name": "John 0",
+            "age": 301212,
+            "cars": {
+                "car1": "Fo rd",
+                "car2": "B MW",
+                "car3": "Fia t"
+            }
+        },
+        {
+            "name": "John 7",
+            "age": 30000,
+            "cars": {
+                "car1": "Fo rd",
+                "car2": "B MW",
+                "car3": "Fi at"
+            }
+        },
+        {
+            "name": "John 3",
+            "age": 390,
+            "cars": {
+                "car1": "Fo rd",
+                "car2": "B MW",
+                "car3": "Fi at"
+            }
+        },
+        {
+            "name": "John 5",
+            "age": 3069,
+            "cars": {
+                "car1": "F ord",
+                "car2": "BM W",
+                "car3": "F ia t"
+            }
+        },
+        {
+            "name": "John 4",
+            "age": 390,
+            "cars": {
+                "car1": "Ford x",
+                "car2": "BMW c",
+                "car3": "Fiat w"
+            }
+        }
+    ]
+} 
